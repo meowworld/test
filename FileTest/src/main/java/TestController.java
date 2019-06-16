@@ -7,6 +7,7 @@ public class TestController {
         System.out.println("垃圾");
 		
 		System.out.println("垃圾2");
+		System.out.println("垃圾3");
 
     }
 
