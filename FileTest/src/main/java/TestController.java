@@ -1,4 +1,11 @@
-package PACKAGE_NAME;
+
 
 public class TestController {
+
+    public void test(){
+
+
+
+    }
+
 }
